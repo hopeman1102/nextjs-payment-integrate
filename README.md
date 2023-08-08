@@ -1,11 +1,5 @@
 ## Integrate Payments With Next.js, TailwindCSS and Razorpay 💯
 
-Blog: [FreeCodeCamp: Integrate Payments With Razorpay, Next.js and TailwindCSS](https://www.freecodecamp.org/news/integrate-a-payment-gateway-in-next-js-and-react-with-razorpay-and-tailwindcss/)
-
-![Landing](https://github.com/manuarora700/integrate-payments/blob/main/demo/landing.png)
-
-![Landing](https://github.com/manuarora700/integrate-payments/blob/main/demo/payment.png)
-
 # Features
 
 - Make international and domestic payments on the fly.
@@ -34,7 +28,7 @@ The website is built in my favourite Tech Stack and deployed on [Vercel](https:/
 
 # Usage
 
-- Clone the repository using `git clone https://github.com/manuarora700/integrate-payments.git`
+- Clone the repository using `git clone https://github.com/hopeman1102/nextjs-payment-integrate.git`
 - Install all the modules by using `npm i` or `npm install` or `yarn`
 - Run the local development server by using `npm run dev` or `yarn dev`
 - Make the required edits and deploy to YOUR GitHub repo for CI/CD.
