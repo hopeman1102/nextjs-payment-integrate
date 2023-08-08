@@ -1,5 +1,9 @@
 ## Integrate Payments With Next.js, TailwindCSS and Razorpay 💯
 
+![Landing](https://github.com/hopeman1102/nextjs-payment-integrate/blob/main/demo/landing.png)
+
+![Landing](https://github.com/hopeman1102/nextjs-payment-integrate/blob/main/demo/payment.png)
+
 # Features
 
 - Make international and domestic payments on the fly.
